@@ -1,12 +1,10 @@
 # Image Captioning Project
 
 In this project, I design and train a CNN-RNN (Convolutional Neural Network - Recurrent Neural Network) model for  automatically generating image captions. The network is trained on the Microsoft Common Objects in COntext [(MS COCO)](http://cocodataset.org/#home) dataset. The image captioning model is displayed below.
-![Image Captioning Model](images/cnn_rnn_model.png?raw=true) [Image source](https://arxiv.org/pdf/1411.4555.pdf)
----
-## Dataset Visualization
-![Image Captioning Model](images/coco-examples.jpg?raw=true)
+![Image Captioning Model](images/cnn_rnn_model.png?raw=true)
 
 ---
+
 ## Algorithm Visualization
 ![Encoder](images/encoder.png?raw=true)
 ### It is the first part part of Model i.e Encoder. It is a CNN Algorithm.
@@ -45,4 +43,4 @@ Here are some predictions from my model.
 - **3_Inference.ipynb:** The purpose of this file is to make the predictions by loading `trained model` and `vocabulary file` to get the desired result. This model generates good captions for the provided image but it can always be improved later by including hyper-parameters and using more accurate algorithms.  
   - ![sample_440](samples/sample_440.png?raw=true)<br/>
 ---
-# Citation : Udacity Computer Vision Nanodegree Program
+## Citation : Udacity Computer Vision Nanodegree Program
