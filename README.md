@@ -7,11 +7,11 @@ In this project, I design and train a CNN-RNN (Convolutional Neural Network - Re
 
 ## Algorithm Visualization
 ![Encoder](images/encoder.png?raw=true)
-### The first part of the architecture i.e Encoder. A CNN structure
+<div align="center">The first part of the architecture i.e Encoder. A CNN structure</div>
 ![Decoder](images/decoder.png?raw=true)
-### The second part of the architecture i.e Decoder. A RNN structure
+<div align="center">The second part of the architecture i.e Decoder. A RNN structure</div>
 ![Encoder-Decoder](images/encoder-decoder.png?raw=true)
-### Complete architecture of CNN-RNN in tandem
+<div align="center">Complete architecture of CNN-RNN in tandem</div>
 
 ---
 
@@ -27,7 +27,9 @@ Here are some predictions from my model.
 ![sample_029](samples/sample_029.png?raw=true)<br/>
 ![sample_107](samples/sample_107.png?raw=true)<br/>
 ![sample_202](samples/sample_202.png?raw=true)
+
 ---
+
 ## File Descriptions
 - **0_Datasets.ipynb:** The purpose of this file is to initialize the COCO API and visualize the dataset. [The Microsoft Common Objects in COntext (MS COCO) dataset](https://cocodataset.org/#home) can be accessed using the COCO API. The API has methods like "getAnnIds", "loadImgs" etc to access the images and annotations. In the 0_Datasets.ipynb file we load the instance annotations and captions annotations into memory using COCO API. Then we plot a random image from the dataset, along with its five corresponding captions. This file helps in understanding the working of the COCO API and the structure of the dataset.
 
@@ -44,5 +46,7 @@ Here are some predictions from my model.
 
 - **3_Inference.ipynb:** The purpose of this file is to make the predictions by loading `trained model` and `vocabulary file` to get the desired result. This model generates good captions for the provided image but it can always be improved later by including hyper-parameters and using more accurate algorithms.  
   - ![sample_440](samples/sample_440.png?raw=true)<br/>
+  
 ---
+
 ## Citation : Udacity Computer Vision Nanodegree Program
