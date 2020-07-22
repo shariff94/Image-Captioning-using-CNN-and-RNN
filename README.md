@@ -6,12 +6,14 @@ In this project, I design and train a CNN-RNN (Convolutional Neural Network - Re
 ---
 
 ## Algorithm Visualization
-![Encoder](images/encoder.png?raw=true)
-### It is the first part part of Model i.e Encoder. It is a CNN Algorithm.
-![Decoder](images/decoder.png?raw=true)
-### It is second part of Model i.e Decoder. It is a LSTM Algorithm.
-![Encoder-Decoder](images/encoder-decoder.png?raw=true)
-### Complete Visualization of how algorithm will work completely.
+<div align=”center”>
+    ![Encoder](images/encoder.png?raw=true)
+    ### It is the first part part of Model i.e Encoder. It is a CNN Algorithm.
+    ![Decoder](images/decoder.png?raw=true)
+    ### It is second part of Model i.e Decoder. It is a LSTM Algorithm.
+    ![Encoder-Decoder](images/encoder-decoder.png?raw=true)
+    ### Complete Visualization of how algorithm will work completely.
+</div>
 ---
 ## Generating Image Captions
 
