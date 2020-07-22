@@ -6,16 +6,14 @@ In this project, I design and train a CNN-RNN (Convolutional Neural Network - Re
 ---
 
 ## Algorithm Visualization
-![Encoder](images/encoder.png?raw=true)
 
+![Encoder](images/encoder.png?raw=true)
 <div align="center">The first part of the architecture i.e Encoder. A CNN structure</div>
 
 ![Decoder](images/decoder.png?raw=true)
-
 <div align="center">The second part of the architecture i.e Decoder. A RNN structure</div>
 
 ![Encoder-Decoder](images/encoder-decoder.png?raw=true)
-
 <div align="center">Complete architecture of CNN-RNN in tandem</div>
 
 ---
