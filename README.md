@@ -27,13 +27,14 @@ In this project, I design and train a CNN-RNN (Convolutional Neural Network - Re
 Here are some predictions from my model.
 
 ### Good results
-![sample_172](samples/sample_172.png?raw=true)<br/>
-![sample_440](samples/sample_440.png?raw=true)<br/>
-![sample_457](samples/sample_457.png?raw=true)<br/>
-![sample_002](samples/sample_002.png?raw=true)<br/>
-![sample_029](samples/sample_029.png?raw=true)<br/>
-![sample_107](samples/sample_107.png?raw=true)<br/>
-![sample_202](samples/sample_202.png?raw=true)
+![sample_010](samples/sample_010.png?raw=true)<br/>
+![sample_022](samples/sample_022.png?raw=true)<br/>
+![sample_045](samples/sample_045.png?raw=true)<br/>
+![sample_053](samples/sample_053.png?raw=true)<br/>
+![sample_087](samples/sample_087.png?raw=true)<br/>
+![sample_093](samples/sample_093.png?raw=true)<br/>
+![sample_173](samples/sample_173.png?raw=true)<br/>
+![sample_15](samples/sample_150.png?raw=true)
 
 ---
 
