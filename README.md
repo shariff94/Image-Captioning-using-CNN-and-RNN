@@ -53,7 +53,7 @@ Here are some predictions from my model.
    The optimizer used is Adam optimizer. We conclude with the training notebook here and go to the next phase.
 
 - **3_Inference.ipynb:** The purpose of this file is to make the predictions by loading `trained model` and `vocabulary file` to get the desired result. This model generates good captions for the provided image but it can always be improved later by including hyper-parameters and using more accurate algorithms.  
-  - ![sample_440](samples/sample_440.png?raw=true)<br/>
+  - ![sample_223](samples/sample_223.png?raw=true)<br/>
   
 ---
 
